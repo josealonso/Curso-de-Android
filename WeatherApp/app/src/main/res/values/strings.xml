@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MeteoDosCiudades</string>
+
+    <string-array name="Ciudades">
+    <item>Madrid</item>
+    <item>Barcelona</item>
+        <item>Ibiza</item>
+        <item>Roma</item>
+        <item>París</item>
+        <item>Londres</item>
+        <item>Berlín</item>
+    </string-array>
+
+
+</resources>

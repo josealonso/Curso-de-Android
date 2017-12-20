@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jose/.android/build-cache/65b7229b8cb347bd99bb5eb832b524c287629e23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/jose/ProyectosDeAndroid/UsandoGoogleMaps-6abril2017/app/build/intermediates/pre-dexed/debug/classes_64fdcb53a9f580c746a643a89107b92fbc70177f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jose/.android/build-cache/20a46ca781a0949c18a513c5304748b16abe3fd4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/jose/ProyectosDeAndroid/UsandoGoogleMaps-6abril2017/app/build/intermediates/pre-dexed/debug/classes_39f1a4745a3c5f284b778d070913c665dd992c04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jose/.android/build-cache/e3433fb85c69050694ecc281fbf2bfbb153ea896/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/jose/ProyectosDeAndroid/UsandoGoogleMaps-6abril2017/app/build/intermediates/pre-dexed/debug/classes_55827c77ea43f16b81406cdc307a3df3bf0b007e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jose/.android/build-cache/7cbc0e16dd3aadd0ec211db65065d9c78a129f52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/jose/ProyectosDeAndroid/UsandoGoogleMaps-6abril2017/app/build/intermediates/pre-dexed/debug/classes_42c0a12dc6a2fcdb51c719153c601cfb7d126b04.jar" />
+    </item>
+
+</items>

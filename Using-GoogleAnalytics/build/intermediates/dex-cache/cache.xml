@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36a29140c787ad6e8e73d796d7dee86e4f56f185">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fcd4c324ad86e6bc7191b38f8dd69930847783eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/.android/build-cache/3ac5ff12248181d0815f7c9f3ccbb07e3b502513/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f903b7dae5b7163091b7ed31b376f8620eaf62d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha9/constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha9_4a49aa3618d76d3a10ac1909cde998c551694922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/.android/build-cache/85d4883b53510fc181ccb82844fbc4f74474937c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f97903c46f4b952a4352de1d6d92cefa3e30589b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/.android/build-cache/5a9347a3dca90bd7c889c2612c10bf822fa2bffd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_147190b70f4d70422b53e7c51d95bb0b81a4dddc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/.android/build-cache/13c26b8dab79a2a2a212c7fc9cbd67f890698618/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bcf30cf6b831bbe360d78cd0ba63762adaa205a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/.android/build-cache/74b97dc17737c93aadf5e1fcba9bc0a7f78a06ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b229756600ad0f2c38012db374f9fa28496b5e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/.android/build-cache/cb0eabfd9a5057e03b03fc35f33f5f45cdd068a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c56572111e52cbdbb9dd5e3c44738f6ca22c2177/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/.android/build-cache/6edaf5bbc589d62e6641948cc7c82ef133145e93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bfdd711ce70d47487be07359fa61db9f33c0ce7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_14b549ccbfd9f8a5dbaf5c4ef0ef09592f8c1c77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/.android/build-cache/e91e642585cb6e3fd8a4759a2b26cb968b999064/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2455e731e3e1e549a87ca8ef9a63ed6643f55f0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/.android/build-cache/3e7592e5f581424e32b1e4c2d183921d1d8baf87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_048e27234d51f00c206c5ed5d3b027c6a4d5b189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/.android/build-cache/c244cd25decaad9add7b743f918ff37b9c8187e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/Users/cice/jalonsotapia/UsandoGoogleAnalytics/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_017ef8b87f008cf2f9917f4e4e4aa7f502fb094f/classes.dex" />
+    </item>
+
+</items>

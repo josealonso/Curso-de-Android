@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cice/jalonsotapia/Fragmntos_29-32017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/cice/jalonsotapia/Fragmntos_29-32017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e020a84f31680c1442039c9b78217c8a3a09e88c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/jalonsotapia/Fragmntos_29-32017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be87168b0c6d2181f25a9a0feeba4f860a70972">
+        <dex dex="/Users/cice/jalonsotapia/Fragmntos_29-32017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_59b9a04adaa748da9e6c528a200a67544770b113/classes.dex" />
+    </item>
+
+</items>
